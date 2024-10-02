@@ -1,7 +1,7 @@
 # EmployeeTurnover-TechInnovations
 Tech innovations Inc. is a leading technology company at the forefront of digital transformation and innovation whose objective is to develop predictive models and actionable insights that will enhance employee recruitment and retention strategies using HR data and Advance Analytics
 
-![image](https://github.com/uzilon/CustomerChurnPrediction/assets/111258660/e3c0bb5e-0a36-4494-b0b5-2f39685558f9)
+![image]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.jostle.me%2Fblog%2Femployee-turnover-rate&psig=AOvVaw29YjDMp9i_4SH9c51QZLfi&ust=1727966443500000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi3x-T274gDFQAAAAAdAAAAABAE])
 
 
 ## Table of contents
